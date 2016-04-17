@@ -1,0 +1,14 @@
+{
+  "name": "EmployeeDirectory",
+  "version": "0.0.1",
+  "private": true,
+  "author": "Logan Call",
+  "description": "Checking out React Native, Employee Directory",
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react": "^0.14.8",
+    "react-native": "^0.23.1"
+  }
+}
