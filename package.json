@@ -4,6 +4,10 @@
   "private": true,
   "author": "Logan Call",
   "description": "Checking out React Native, Employee Directory",
+  "keywords": [
+    "React",
+    "React Native"
+  ],
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start"
   },
